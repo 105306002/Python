@@ -1,3 +1,3 @@
 # Python
 
-A simple socket programming use Python
+A simple socket programming using Python
